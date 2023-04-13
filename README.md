@@ -11,7 +11,7 @@ A popular approach for parameter optimization in multilayer Moore-Penrose invers
 
 ## Learning Structure:
 
-<img src="https://github.com/W1AE/Retraining/blob/main/f.jpg" width="550" height="330" />
+<img src="https://github.com/W1AE/DRMPI/blob/main/flowchat.jpg" width="550" height="330" />
 Fig. 1 Flowchart of the proposed DRMPN.
 
 ## Downloads:
