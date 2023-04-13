@@ -30,5 +30,7 @@ Fig. 1 Flowchart of the proposed DRMPN.
 
 ## Reproduce the Experimental Results
 
+#Run Coding_DRMPN.m for reproducing results.
+
 #The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
 
