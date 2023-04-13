@@ -15,7 +15,7 @@ A popular approach for parameter optimization in multilayer Moore-Penrose invers
 Fig. 1 Flowchart of the proposed DRMPN.
 
 ## Downloads:
-### Caltech-101 (Image Classification Domain)
+### Caltech-101 (Multi-view Feature Embedding)
 * Caltech-101 dataset: [Caltech-101 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 * Caltech-101 ResNet-50 features: [Caltech-101-testing (GoogLe Drive)](https://drive.google.com/file/d/1W_AFsaCgUdP1rBRnsjS24dWPW9MYCbAQ/view?usp=sharing) [Caltech-101-training (GoogLe Drive)](https://drive.google.com/file/d/1HWK9COAeQFOE4j6Z5wtfvJpkFneVm50Y/view?usp=sharing)
 * Source code for Caltech-101: [Demo_Caltech101](https://github.com/W1AE/DRMPI/blob/main/Demo_Caltech101.zip)
