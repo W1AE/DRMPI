@@ -5,9 +5,9 @@
 A popular approach for parameter optimization in multilayer Moore-Penrose inverse (MPI) methods is the least-square strategy, which has shown impressive performance in a wide range of tasks. However, the conventional method for constructing deep MPI structures involves building the architecture layer-by-layer, which can lead to inefficient use of information and poor data propagation. In order to solve this limitation, the authors drew inspiration from the shortcut connections to create a very deep network called the deep residual MPI network (DRMPN). In particular, the DRMPN is an iterative learning method. In other words, the method learns the optimal features from the input data with several epochs. In each iteration, the proposed method adds one feature reinforcement block (FRB) into the structure to learn the optimal representation and to map the data to the output space (get a label). The experimental results with varying training samples (from $3\,K$ to $1.8\,M$) show that the proposed models provide higher Top-1 testing accuracy than most representation learning algorithms.
 
 ## Contributions:
-* I. Architecture side -  Two novel LS-based algorithms called RML-MP and SRML-MP are proposed. Specifically, i) to enhance the discriminitively of the latent space features, the RML-MP is developed; ii) the global-level representations of input pattern are generated through the proposed SRML-MP strategy.
+* I. Architecture side - A novel deep MPI network is proposed; A new network connection topology is provided; The method can build a very deep network effectively.
 
-* II. Application side - The key contribution of this paper in terms of its application is the usage of OC-SNN and MCOC-SNN, which harnesses high-level abstract features to handle large-scale datasets such as ImageNet and Place365. Furthermore, the cross-domain validations verify the effectiveness of the proposed methods. 
+* II. Application side - The key contribution of this paper in terms of its application is the usage of DRMPN, which harnesses high-level abstract features to handle large-scale datasets such as ImageNet and Place365. Furthermore, the cross-domain validations verify the effectiveness of the proposed methods. 
 
 ## Learning Structure:
 
