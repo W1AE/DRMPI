@@ -12,14 +12,7 @@ A popular approach for parameter optimization in multilayer Moore-Penrose invers
 ## Learning Structure:
 
 <img src="https://github.com/W1AE/Retraining/blob/main/f.jpg" width="550" height="330" />
-Fig. 1 Flowchart of the RML-MP and SRML-MP for multi-view representation learning.
-
-<img src="https://github.com/W1AE/Retraining/blob/main/f1.jpg" width="1050" height="430" />
-Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. The difference of RML-ELM and SRML-ELM lies in Stage 3, the RML-ELM use $\ell_2$ penalty to recalculate the parameters while the SRML-ELM adopt $\ell_{1/2}$ penalty to update the weights.
-
-## Related Work:
-
-[1] Arvix: Multi-Model Least Square-Based Recomputation Framework for Large Data Analysis. 
+Fig. 1 Flowchart of the proposed DRMPN.
 
 ## Downloads:
 ### Caltech-101 (Image Classification Domain)
@@ -32,7 +25,7 @@ Fig.2 Comparison of frameworks of the (a) M-ELM, (b) RML-ELM, and (c) SRML-ELM. 
 * Source code for MNIST-2: [OC-MNIST-2](https://github.com/W1AE/Retraining/blob/main/Demo_MNIST.zip)
 
 ## Dependancies
-* Matlab version 2020a,
+* Matlab version 2022b,
 * A workstation with a 256GB memory and an E5-2650 processor.
 
 ## Reproduce the Experimental Results
